@@ -13,57 +13,57 @@
 <!-- code_chunk_output -->
 
 * [Biology](#biology)
-	* [Cell Biology](#cell-biology)
-		* [Cell Structure](#cell-structure)
-			* [Eukaryotes and Prokaryotes](#eukaryotes-and-prokaryotes)
-			* [Subcellular Structures](#subcellular-structures)
-			* [Typical Animal, Plant and Bacteria Cells](#typical-animal-plant-and-bacteria-cells)
-			* [Examples of Specialised Cells](#examples-of-specialised-cells)
-			* [Microscopy](#microscopy)
-			* [**Required Practical 1: Using a light microscope to observe animal and plant cells**](#required-practical-1-using-a-light-microscope-to-observe-animal-and-plant-cells)
-			* [Stem Cells & Differentiation](#stem-cells-differentiation)
-		* [Cell Division](#cell-division)
-			* [Growth and DNA Replication & Mitosis](#growth-and-dna-replication-mitosis)
-			* [Meosis](#meosis)
-			* [Binary Fission](#binary-fission)
-			* [**Required Practical 2: Culturing Microorganisms**](#required-practical-2-culturing-microorganisms)
-		* [Transport in Cells](#transport-in-cells)
-			* [Diffusion, Osmosis and Active Transport](#diffusion-osmosis-and-active-transport)
-			* [Comparing water concentrations and their effects](#comparing-water-concentrations-and-their-effects)
-			* [**Required Practical 3: Investigating effect of sugar solution on plant tissue**](#required-practical-3-investigating-effect-of-sugar-solution-on-plant-tissue)
-			* [Exchange Surfaces](#exchange-surfaces)
-			* [Factors that affect rate of Diffusion](#factors-that-affect-rate-of-diffusion)
-	* [Organisation](#organisation)
-		* [Enzymes](#enzymes)
-		* [**Required Practical 4: Food Tests**](#required-practical-4-food-tests)
-		* [Animals](#animals)
-		* [Digestive System](#digestive-system)
-			* [**Required Practical 5: Investigate the effect of pH on the rate of reaction of amylase**](#required-practical-5-investigate-the-effect-of-ph-on-the-rate-of-reaction-of-amylase)
-			* [Lungs](#lungs)
-			* [Circulatory System](#circulatory-system)
-			* [Cardiovascular Disease](#cardiovascular-disease)
-			* [Health](#health)
-			* [Cancer](#cancer)
-		* [Plants](#plants)
-			* [Leaf](#leaf)
-			* [Transpiration and Translocation](#transpiration-and-translocation)
-	* [Infection and response](#infection-and-response)
-		* [Examples of Communicable diseases](#examples-of-communicable-diseases)
-			* [Reducing/Preventing spread of diseases](#reducingpreventing-spread-of-diseases)
-		* [Types of Pathogens](#types-of-pathogens)
-		* [Human Defence Systems](#human-defence-systems)
-			* [First line of Defence](#first-line-of-defence)
-			* [Second line of Defence](#second-line-of-defence)
-			* [Third line of Defence](#third-line-of-defence)
-		* [Plants](#plants-1)
-			* [Plant defences](#plant-defences)
-		* [Vaccination](#vaccination)
-		* [Antibiotics and Painkillers](#antibiotics-and-painkillers)
-		* [Monoclonal Antibodies](#monoclonal-antibodies)
-			* [Uses of Monoclonal Antibodies](#uses-of-monoclonal-antibodies)
-	* [Bioenergetics](#bioenergetics)
-		* [Photosynthesis](#photosynthesis)
-			* [**Required Practical 6: Investigating effect of light intensity on the rate of photosynthesis using pond weed**](#required-practical-6-investigating-effect-of-light-intensity-on-the-rate-of-photosynthesis-using-pond-weed)
+  * [Cell Biology](#cell-biology)
+    * [Cell Structure](#cell-structure)
+      * [Eukaryotes and Prokaryotes](#eukaryotes-and-prokaryotes)
+      * [Subcellular Structures](#subcellular-structures)
+      * [Typical Animal, Plant and Bacteria Cells](#typical-animal-plant-and-bacteria-cells)
+      * [Examples of Specialised Cells](#examples-of-specialised-cells)
+      * [Microscopy](#microscopy)
+      * [**Required Practical 1: Using a light microscope to observe animal and plant cells**](#required-practical-1-using-a-light-microscope-to-observe-animal-and-plant-cells)
+      * [Stem Cells & Differentiation](#stem-cells-differentiation)
+    * [Cell Division](#cell-division)
+      * [Growth and DNA Replication & Mitosis](#growth-and-dna-replication-mitosis)
+      * [Meosis](#meosis)
+      * [Binary Fission](#binary-fission)
+      * [**Required Practical 2: Culturing Microorganisms**](#required-practical-2-culturing-microorganisms)
+    * [Transport in Cells](#transport-in-cells)
+      * [Diffusion, Osmosis and Active Transport](#diffusion-osmosis-and-active-transport)
+      * [Comparing water concentrations and their effects](#comparing-water-concentrations-and-their-effects)
+      * [**Required Practical 3: Investigating effect of sugar solution on plant tissue**](#required-practical-3-investigating-effect-of-sugar-solution-on-plant-tissue)
+      * [Exchange Surfaces](#exchange-surfaces)
+      * [Factors that affect rate of Diffusion](#factors-that-affect-rate-of-diffusion)
+  * [Organisation](#organisation)
+    * [Enzymes](#enzymes)
+    * [**Required Practical 4: Food Tests**](#required-practical-4-food-tests)
+    * [Animals](#animals)
+    * [Digestive System](#digestive-system)
+      * [**Required Practical 5: Investigate the effect of pH on the rate of reaction of amylase**](#required-practical-5-investigate-the-effect-of-ph-on-the-rate-of-reaction-of-amylase)
+      * [Lungs](#lungs)
+      * [Circulatory System](#circulatory-system)
+      * [Cardiovascular Disease](#cardiovascular-disease)
+      * [Health](#health)
+      * [Cancer](#cancer)
+    * [Plants](#plants)
+      * [Leaf](#leaf)
+      * [Transpiration and Translocation](#transpiration-and-translocation)
+  * [Infection and response](#infection-and-response)
+    * [Examples of Communicable diseases](#examples-of-communicable-diseases)
+      * [Reducing/Preventing spread of diseases](#reducingpreventing-spread-of-diseases)
+    * [Types of Pathogens](#types-of-pathogens)
+    * [Human Defence Systems](#human-defence-systems)
+      * [First line of Defence](#first-line-of-defence)
+      * [Second line of Defence](#second-line-of-defence)
+      * [Third line of Defence](#third-line-of-defence)
+    * [Plants](#plants-1)
+      * [Plant defences](#plant-defences)
+    * [Vaccination](#vaccination)
+    * [Antibiotics and Painkillers](#antibiotics-and-painkillers)
+    * [Monoclonal Antibodies](#monoclonal-antibodies)
+      * [Uses of Monoclonal Antibodies](#uses-of-monoclonal-antibodies)
+  * [Bioenergetics](#bioenergetics)
+    * [Photosynthesis](#photosynthesis)
+      * [**Required Practical 6: Investigating effect of light intensity on the rate of photosynthesis using pond weed**](#required-practical-6-investigating-effect-of-light-intensity-on-the-rate-of-photosynthesis-using-pond-weed)
 
 <!-- /code_chunk_output -->
 
@@ -716,10 +716,10 @@ Ways pathogens can spread:
 - Lymphocytes can also make antitoxins (special type of antibody) to bind to and neutralise toxins produced by some types of pathogen. This will make you feel better also.
 
 ### Plants
-Ion  | Use in Plant  | Deficiency symptoms  
---|---|--
-Magnesium  | make chlorophyll for photosynthesis  |  Chlorosis (yellow leaves)
-Nitrate  | combined with amino acids to make proteins  | Stunted growth
+| Ion       | Use in Plant                             | Deficiency symptoms       |
+| --------- | ---------------------------------------- | ------------------------- |
+| Magnesium | make chlorophyll for photosynthesis      | Chlorosis (yellow leaves) |
+| Nitrate   | combined with amino acids to make proteins | Stunted growth            |
 
 Common signs of diseases in plants:
 - stunted growth
@@ -735,11 +735,11 @@ Plant diseases can be identified by:
 3. Using test kits that identify the pathogen using monoclonal antibodies
 
 #### Plant defences
-Type  |  Notes
---|--
-Physical  | <ul><li>waxy cuticle provides a barrier to stop pathogens entering leaves / stems</li><li>cells have walls made of cellulose</li><li>layers of dead cells around their stems (e.g. bark on trees)</li></ul>  
-Chemical  | <ul><li>some plants produce antibacterial chemicals which kill bacteria - e.g. mint plant and witch hazel.</li><li>some plants produce poisons to deter herbivores - tobacco plants, foxgloves, deadly nightshade.</li></ul>
-Mechanical  | <ul><li>thorns and hairs stop animals touching or eating them.</li><li>leaves that droop or curcl when something touches them. This prevents them from being eaten by displacing that were on them.</li><li>some plants mimic other organisms such as passion flower which has bright yellow spots which look like butterfly eggs which prevents butterflies laying their eggs on them.</li></ul>
+| Type       | Notes                                    |
+| ---------- | ---------------------------------------- |
+| Physical   | <ul><li>waxy cuticle provides a barrier to stop pathogens entering leaves / stems</li><li>cells have walls made of cellulose</li><li>layers of dead cells around their stems (e.g. bark on trees)</li></ul> |
+| Chemical   | <ul><li>some plants produce antibacterial chemicals which kill bacteria - e.g. mint plant and witch hazel.</li><li>some plants produce poisons to deter herbivores - tobacco plants, foxgloves, deadly nightshade.</li></ul> |
+| Mechanical | <ul><li>thorns and hairs stop animals touching or eating them.</li><li>leaves that droop or curcl when something touches them. This prevents them from being eaten by displacing that were on them.</li><li>some plants mimic other organisms such as passion flower which has bright yellow spots which look like butterfly eggs which prevents butterflies laying their eggs on them.</li></ul> |
 ### Vaccination
 **Vaccination** is when you inject small amounts of dead or inactive pathogens. These carry antigens which cause your body to produce antibodies to attack them. The instructions for making the antibody are stored by "memory" lymphocytes so that if the immune system comes into contact with the real pathogen antibodies can be produced quickly so you don't get sick.
 
@@ -865,32 +865,32 @@ $$ \color{red}{\text{water + carbon dioxide} \xrightarrow{light} \text{glucose +
 3. _Making amino acids_ - used with nitrate ions to make proteins
 4. _Stored as lipids (oils/fats)_ - for storing in seeds
 5. _Stored as starch_:
-	- in roots, stems and leaves.
-	- provide carbohydrate when photosynthesis is unable to occur (winter...)
-	- insoluble which makes it MUCH BETTER for storage than glucose (cell with lots of glucose would cause water to move by osmosis in and cause plant cell to swell up!)
+  - in roots, stems and leaves.
+  - provide carbohydrate when photosynthesis is unable to occur (winter...)
+  - insoluble which makes it MUCH BETTER for storage than glucose (cell with lots of glucose would cause water to move by osmosis in and cause plant cell to swell up!)
 
 ##### Limiting factors that affect rate of photosynthesis:
 A **limiting factor** is the factor that has the shortest supply and restricts the rate of reaction.
 
 ![intensity of light](images/2018/01/intensity-of-light.png)
 1. **Intensity of light**:
-	- At low light intensities, as light intensity increases, the rate of the light-dependent reaction (and photosynthesis in general) increases proportionately.
-	- As light intensity increases further, the rate of photosynthesis is limited by a different factor.
+  - At low light intensities, as light intensity increases, the rate of the light-dependent reaction (and photosynthesis in general) increases proportionately.
+  - As light intensity increases further, the rate of photosynthesis is limited by a different factor.
 
 ![carbon dioxide concentration](images/2018/01/carbon-dioxide-concentration.png)
 2. **Carbon dioxide concentration**:
-	-  Increase causes a faster rate at which carbon is incorporated into carbohydrate in light-independent reaction, so rate of photosynthesis increases until limited by another factor.
-	- Since carbon concentration is usually very low in atmosphere (0.04%), increasing carbon dioxide can cause a rapid rise in rate of photosynthesis.
-	- Eventually plateaus as maximum rate of fixation is reached.
+  -  Increase causes a faster rate at which carbon is incorporated into carbohydrate in light-independent reaction, so rate of photosynthesis increases until limited by another factor.
+  -  Since carbon concentration is usually very low in atmosphere (0.04%), increasing carbon dioxide can cause a rapid rise in rate of photosynthesis.
+  -  Eventually plateaus as maximum rate of fixation is reached.
 
 ![Temperature](images/2018/01/temperature.png)
 3. **Temperature**:
-	- light independent reaction rely on enzymes.
-	- As enzymes approach optimum temperatures the overall rate of photosynthesis increases.
-	- Above optimum temperature enzymes start to denature, so rate begins to rapidly decrease, until stopping.
+  - light independent reaction rely on enzymes.
+  - As enzymes approach optimum temperatures the overall rate of photosynthesis increases.
+  - Above optimum temperature enzymes start to denature, so rate begins to rapidly decrease, until stopping.
 
 4. **Amount of chlorophyll**:
-	-  if plant is affected by disease or environmental stress (lack of magnesium ions...).]
+  -  if plant is affected by disease or environmental stress (lack of magnesium ions...).]
 
 
 
@@ -898,5 +898,17 @@ A **limiting factor** is the factor that has the shortest supply and restricts t
 
 
 
-##### Food production
+##### 
 #### **Required Practical 6: Investigating effect of light intensity on the rate of photosynthesis using pond weed**
+
+**Canadian pondweed** can be used to measure the effect of light intensity on the rate of photosynthesis.
+
+The rate of oxygen produced is linked to the rate of photosynthesis.
+
+1. A source of white light is placed at a specific distance from the pondweed.
+2. The pondweed is left to photosynthesise for a set amount of time. As photosynthesis occurs, oxygen will be released and collect in a capillary tube.
+3. After the time has elapsed, the syringe is used to collect the gas bubble in the tube up alongside a ruler and the length of the gas bubble is measured.
+4. The experiment is repeated twice with the light source at the same distance and the mean volume of O2 is calculated.
+
+
+
