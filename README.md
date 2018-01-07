@@ -1,4 +1,4 @@
-# GCSE Liber 
+# Learn X | The Community GCSE Resource Project
 
 ## The free online textbook made by students for students.
 
