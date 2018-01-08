@@ -27,3 +27,8 @@ A **computer system** uses a set of digital *inputs*, *processes them* and creat
 
 The instructions in order to process the information are provided by a **program**.
 
+## Data Representation
+
+### Units
+
+
