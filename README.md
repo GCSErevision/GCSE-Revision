@@ -1,6 +1,5 @@
-# Learn X | The Community GCSE Resource Project
 
-## The free online textbook made by students for students.
+## Free online textbook for GCSE. Licensed under Creative Commons (CC).
 
 | Subject              | Exam Board | Specification | Exam Date | Questions | Version |
 | -------------------- | ---------- | ------------- | --------- | --------- | ------- |
