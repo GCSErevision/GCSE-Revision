@@ -27,3 +27,16 @@ A **computer system** uses a set of digital *inputs*, *processes them* and creat
 
 The instructions in order to process the information are provided by a **program**.
 
+## Data Representation
+
+### Units
+- A single **bit** is the smallest size of digital data and has only two values (Base-2): 0, 1.
+
+- A **nibble** is a group of 4 bits.
+
+- A **byte** contains 8 bits, for example 1 1 1 0 1 0 0 1 is a byte because it has 8 bits...
+  - A single character requires 1 byte or 8 bits
+  
+
+
+
