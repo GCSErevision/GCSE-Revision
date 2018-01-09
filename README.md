@@ -29,3 +29,5 @@ Click on the the exam board to be taken to the appropriate specification.
 0.1.0 = The entire specification has been covered in the textbook.
 
 1.0.0 = The textbook is fully completed, the quick questions, long questions and past papers have also been completed.
+
+*Please note: we cannot validate the accuracy of the guide to the entire specification until 1.0.0 is reached*
