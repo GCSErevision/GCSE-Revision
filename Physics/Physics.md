@@ -1,22 +1,7 @@
 ###### Checklist
 # Physics
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=4 orderedList=false} -->
-<!-- code_chunk_output -->
-
-* [Physics](#physics)
-	* [Energy](#energy)
-		* [Energy Stores](#energy-stores)
-			* [Kinetic & Potential Energy Stores](#kinetic-potential-energy-stores)
-	* [Electricity](#electricity)
-	* [Particle Model of Matter](#particle-model-of-matter)
-	* [Atomic Structure](#atomic-structure)
-	* [Forces](#forces)
-	* [Waves](#waves)
-	* [Electromagnetism](#electromagnetism)
-	* [Space Physics](#space-physics)
-
-<!-- /code_chunk_output -->
+[TOC]
 
 ## Energy
 **Energy** is the amount of possible change in a **system.**
@@ -47,17 +32,26 @@ When a system changes, energy is transferred:
 - between different types of energy stores
 
 ##### Closed & Open Systems
-An Open System is when energy and matter can be transferred with the surrounding environment.
+An **Open System** is when energy and matter can be transferred with the surrounding environment.
 
-In a closed system neither energy nor matter can enter or leave the system. So the net change in the total energy of the system must always be 0.
+In a **closed system**, energy and matter cannot enter or leave. So the total amount of energy in a system must always be 0. This means that:
+
+> ​	The total energy in a closed system must remain the same over time. This also means that energy and matter cannot be created or destroyed. 
+>
+> **The law of conservation of mass and energy.**
 
 ##### Work Done
-**Work done** is the same as energy transferred.
+$$ \Delta E = W $$
 
-Examples of work being done:
-(pg1)+
+Work done by a force causing a displacement can be calculated by:
+
+$$ W = F s $$
 
 #### Kinetic & Potential Energy Stores
+
+$$W = F s$$
+
+
 
 ## Electricity
 ## Particle Model of Matter
