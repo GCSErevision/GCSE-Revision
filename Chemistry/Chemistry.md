@@ -59,7 +59,7 @@ Each element has a symbol that is arranged to form the **periodic table.**
 | Notes                                    | can exist as **molecules** (2 atoms of same element bonded together...) | contains the same ratio of different types of atoms |                                          |
 |                                          |                                          |                                          |                                          |
 
-##### Introduction to chemical Equations
+##### Introduction to chemical equations
 
 $$ \text{reactants} \rightarrow \text{products} $$
 
@@ -129,9 +129,32 @@ This arranges elements so they are in groups (vertical columns) and periods (row
 
 **Groups** on the periodic table contain elements with similar properties
 
-The $$\text{group number = number of electrons in outer shell}$$
+The $$\text{group number = number of electrons in outer shell} \\ \text{(group 0 = full outer shell)}$$
 
 **Rows** show the number of filled electron shells. 
+
+#### History of the Periodic Table
+
+Scientists in the 19th century tried to find patterns in the behavior of elements in order to understand more about chemistry. 
+
+John Dalton arranged elements in order of their "atomic weight".
+
+In 1864, John Newland arranged elements in order of their mass but noticed properties of every eight elements seemed similar. So he made a new column every 8 elements:
+
+- This was known as "The Law of Octaves".
+- He arranged these based on all the currently known elements (not the ones still to come)
+- Other scientists ridiculed him and refused his ideas.
+
+##### Dmitri Mendeleev
+
+In 1869, Russian chemist Dmitri Mendeleev:
+
+- arranged atoms in order of their atomic weight. 
+- arranged them in a regularly occurring pattern to group similar elements by properties together.
+- left gaps between elements with similar properties and other elements which allowed him to predict properties of elements to come in the future.
+  - His ideas were proved after he predicted the properties of elements which were discovered a few years later.
+- modified the order where appropriate to fit with the properties of elements:
+  - E.g: Argon, Pottasium.
 
 #### Metals and Non-metals
 
@@ -176,7 +199,9 @@ An **ion** is a charged atom or group of atoms:
 
   $$ \text{number of electrons = number of protons = 3 - 1 = 2}  \\ \text{net charge = number of protons - number of electrons}  \\ \text{net charge = 3 - 2 = +1} $$
 
-  $$ \text{} $$
+Ions are formed because atoms want to lose or gain electrons to have a full outer shell:
+
+- Metals form **cations** because they lose electrons since it is easier for them to lose electrons to fill an outer shell than gain them.
 
 Atoms of the same element have the same number of protons. BUT, they can have different numbers of neutrons. These are called **isotopes**:
 
@@ -195,6 +220,28 @@ So what atomic mass number is used on the periodic table for an element?
 $$ \text{Relative Atomic Mass (Ar) =} \frac{\sum \text{(isotope mass number * isotope abundance)}}{\text{total isotope abundance}} $$
 
 $$\sum$$ means that you follow the process for all isotopes.
+
+#### Group 0 - Noble Gases
+
+- filled outer shell of electrons
+  - This makes them very unreactive since they are naturally stable so don't need to react to gain / lose electrons - they are **inert** (very unreactive).
+    - This also means they are **non-flammable** (won't set on fire easily).
+  - This is also the reason they exist as single atoms; **monatomic**.
+- All are colourless gases at room temperature.
+
+
+
+
+As you go down the group (and relative atomic mass and proton number increases):
+
+- Boiling point increases:
+  - This is because of an increase in the number of electrons in each atom leading to
+  - greater intermolecular forces between them which need to be overcome.
+
+#### Group 1 - Alkali Metals
+
+- 1 electron in their outer shell
+
 
 ### Structure and Bonding
 
