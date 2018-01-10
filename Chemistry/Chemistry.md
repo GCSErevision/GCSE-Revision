@@ -27,7 +27,7 @@ Matter is anything that occupies space and has mass.
 Atoms have a radius of 0.1nm.
 
 The Nucleus:
-- Very small centre of atom
+- Very small centre of atom (radius 1/10,000 of that of the atom)
 - Contains protons (+, 1) and neutrons (0, 1)
 - Where most of the mass is concentrated
 
@@ -41,7 +41,7 @@ Electron Shells:
 
 Atoms have no net overall charge - there is balance in the force. This means that:
 
-number of electrons = number of protons
+$$ \text{number of electrons = number of protons} $$
 
 A substance that is made up of one type of atom with the same number of protons is an **element**.
 
@@ -59,7 +59,7 @@ Each element has a symbol that is arranged to form the **periodic table.**
 | Notes                                    | can exist as **molecules** (2 atoms of same element bonded together...) | contains the same ratio of different types of atoms |                                          |
 |                                          |                                          |                                          |                                          |
 
-##### Chemical Equations
+##### Introduction to chemical Equations
 
 $$ \text{reactants} \rightarrow \text{products} $$
 
@@ -181,12 +181,26 @@ An **ion** is a charged atom or group of atoms:
 Atoms of the same element have the same number of protons. BUT, they can have different numbers of neutrons. These are called **isotopes**:
 
 - Sometimes isotopes have an unstable number of neutrons in there nucleus so are radioactive.
-- Different isotopes of the same element can have different 
+- Different isotopes of the same element have different physical properties but the same chemical properties.
 
 
 - They all have same atomic number but different mass numbers.
 
+So what atomic mass number is used on the periodic table for an element?
+
+- A weighted average of all the isotopes of that element that factors in:
+  - how common an isotope is (isotope abundance)
+  - the isotopes atomic mass number (isotope mass number)
+
+$$ \text{Relative Atomic Mass (Ar) =} \frac{\sum \text{(isotope mass number * isotope abundance)}}{\text{total isotope abundance}} $$
+
+$$\sum$$ means that you follow the process for all isotopes.
+
 ### Structure and Bonding
+
+#### Electron Shell Diagrams
+
+
 
 ### Chemical Calculations
 ## Chemical reactions and energy changes
