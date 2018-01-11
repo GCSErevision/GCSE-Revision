@@ -241,13 +241,124 @@ As you go down the group (and relative atomic mass and proton number increases):
 #### Group 1 - Alkali Metals
 
 - 1 electron in their outer shell
+  - very reactive
+- soft and have low density
 
+
+As you go down Group 1:
+
+- Increasing reactivity
+- Lower melting and boiling points
+- Higher relative atomic mass
+
+##### Reactions with non-metals
+
+- form 1+ ions.
+
+- Reaction with water:
+
+  $$\text{Alkali metal + water} \rightarrow \text{Alkali metal hydroxide + hydrogen}$$
+
+  - metal hydroxides are salts that dissolve in water to produce alkaline solutions
+
+- Reaction with chlorine
+
+  $$ \text{Alkali metal + chlorine} \rightarrow \text{Alkali metal chloride} $$
+
+- Reaction with oxygen
+
+  $$ \text{Lithium + oxygen} \rightarrow \text{Lithium oxide} $$
+
+  ##### Alkali metals vs Transition metals
+
+  - Alkali metals more reactive
+  - less dense, strong and hard
+  - much lower melting point
+
+#### Group 7 - Halogens
+
+|          | Colour of Vapour            |
+| -------- | --------------------------- |
+| Flourine | yellow                      |
+| Chlorine | green                       |
+| Bromine  | red-brown (volatile liquid) |
+| Iodine   | purple                      |
+|          |                             |
+
+Exist as diatomic atoms (pairs of atoms)
+
+Trends going down the group:
+
+- Less reactive
+- Higher melting point and Higher boiling point
+- Higher relative atomic mass
+
+##### Reactions with other elements
+
+- Halogen atoms can share electrons via covalent bonding with other NON-METALS to achieve a full outer shell.
+
+  - The compounds that are formed all have simple molecular structures
+
+- Halogens form -1 ions (**halides**) when they bond with METALS
+
+  - These compounds have ionic structures
+
+- A **displacement** reactions can occur between a more reactive halogen and a less reactive one:
+
+  $$ \text{Chlorine + Potassium iodide} \rightarrow \text{Iodine + Pottasium chloride}$$
 
 ### Structure and Bonding
 
-#### Electron Shell Diagrams
+#### Ionic bonding & compounds
 
+1. When a non-metal and a metal react together
+2. The metal atom loses electrons to form cations
+3. The non-metal gains these electrons to form anions
+4. These oppositely charged ions are strongly attracted to one another by electrostatic forces.
+5. This attraction is known as an ionic bond.
 
+Ionic  compounds have a **giant ionic lattice**. There are very strong electrostatic forces of attraction between oppositely charged ions in all directions.
+
+Properties of ionic compounds:
+
+- High melting points and boiling points. This is because of the strong bonds meaning it takes a lot of energy to break them to change from 1 state of matter to another.
+- When ionic compounds melt to become a liquid, they can conduct electricity as there are free delocalised ions which can carry charge.
+
+#### Covalent bonding & compounds
+
+1. When non-metals bond together, they share pairs of electrons to make covalent bonds.
+2. The positively charged nuclei of the bonded atoms are attracted to the shared pair of electrons by electrostatic forces, making covalent bonds very strong.
+3. Each covalent bond provides enough covalent bonds to fill up its outer shell. A single covalent bond shares 1 electron with each atom.
+
+Examples: Chlorine $$Cl_2$$ and Oxygen $$O_2$$
+
+##### Simple molecular substances
+
+Substances containing covalent bonds USUALLY have simple molecular structures:
+
+- Atoms within the molecules are held together by very strong covalent bonds.
+- HOWEVER, the forces of attraction between the molecules are very weak.
+- This is why they have very low melting and boiling points.
+- Most are gases or liquids at room temperature, for example.
+- Don't conduct electricity - no ions.
+
+##### Polymers
+
+##### Giant covalent structures
+
+All the atoms are bonded to each other by strong covalent bonds.
+
+Very high melting and boiling points.
+
+don't conduct electricity.
+
+Examples: Diamond, Graphite, Silicon Dioxide
+
+##### Allotropes of carbon
+
+#### Metallic bonding
+
+1. Metals cos
 
 ### Chemical Calculations
 ## Chemical reactions and energy changes
