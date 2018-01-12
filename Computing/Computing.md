@@ -30,6 +30,7 @@ A **computer system** uses a set of digital ***inputs***, ***processes them*** a
 
 - Inputs are provided by an **input device.** For example: Keyboard, Microphone, Touch Screen, Mouse...
 - Outputs are provided by an **output device**. For example: Computer Monitor, Printer, Speakers...
+- Output and Input devices are both examples of hardware.
 
 ##### Process
 
@@ -42,7 +43,28 @@ A **computer system** uses a set of digital ***inputs***, ***processes them*** a
 
 There are 2 main types of software:
 
+- **System software** which manage the operation of the computer. Aka Operating Systems such as Windows, Mac OS X, Linux
+- **Application software** which are written for a specific purpose. For example a Music Player, Photo Editor, Word Editor...
 
+##### Storage
+- Instead of the CPU sending data directly to an output device, often it is instead (or also) stored.
+ - Data can be stored in: 1. RAM, 2. Hard Disk, 3. Secondary Storage Device (mobile phones use this).
+
+##### How does data move about in the computer system?
+- A **bus** allows data to be transported. It is a set of wires laid down on a printed circuit board.
+
+Types of "bus":
+
+- **Data bus** carries actual data around the computer system.
+- **Address bus** carries information on where the actual data needs to go in the system.
+- **Control bus** carries signals to control various components (e.g. DVD drive, Hard disk...)
+
+**Embedded computer systems** are designed to carry out a specific purpose. For example:
+
+- Smart phone, cars and lorries
+
+They can also be used for **computer control** such as Traffic Light systems, Elevators...
+                                                                           
 
 ## Data Representation
 
@@ -53,4 +75,8 @@ There are 2 main types of software:
 
 - A **byte** contains 8 bits, for example 1 1 1 0 1 0 0 1 is a byte because it has 8 bits...
   - A single character requires 1 byte or 8 bits	
+  
+
+  
+ 
 
