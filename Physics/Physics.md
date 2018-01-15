@@ -41,15 +41,15 @@ In a **closed system**, energy and matter cannot enter or leave. So the total am
 > **The law of conservation of mass and energy.**
 
 ##### Work Done
-$$ \Delta E = W $$
+![\Delta E = W](http://mathurl.com/ycvkrjz8.png)
 
 Work done by a force causing a displacement can be calculated by:
 
-$$ W = F s $$
+![W = F*s](http://mathurl.com/y9vhx7qd.png)
 
 #### Kinetic & Potential Energy Stores
 
-$$W = F s$$
+![W = F*s](http://mathurl.com/y9vhx7qd.png)
 
 
 
